@@ -10,7 +10,7 @@
     Permite registrar fechas de compra, fechas de vencimiento y calcular
     automáticamente el estado de la garantía.
     """,
-    'author': 'Francisco Navas',
+    'author': 'Gemma Benítez',
     'depends': ['base', 'sale', 'contacts'], # Requiere módulos base, ventas y contactos
     'data': [
     'views/garantia_views.xml',
